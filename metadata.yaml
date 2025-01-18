@@ -1,0 +1,51 @@
+_repo: Isles-of-the-sea-or-Young-America-homeward-bound-b-A-story-of-travel-and-adventure_74943
+_version: 0.0.1
+contributor:
+  engraver:
+    agent_name: John Andrew & Son
+    aliases:
+    - Andrew & Son
+    - John Andrew and Son Co.
+    - Son, John Andrew &
+    gutenberg_agent_id: '57740'
+    url: http://www.gutenberg.org/2009/agents/57740
+    wikipedia: https://en.wikipedia.org/wiki/John_Andrew_%26_Son
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia:
+    - https://en.wikipedia.org/wiki/William_Taylor_Adams
+    - http://www.gutenberg.org/ebooks/author/5655
+description: ''
+gutenberg_issued: '2024-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74943'
+  lccn: '05033625'
+language: en
+pgterms:marc904: https://archive.org/details/islesofseaoryoun00adamiala/page/n6/mode/1up
+pgterms:marc905: 20230712192445optic
+pgterms:marc906: '1877'
+pgterms:marc907: en
+production_note: Aaron Adrignola, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: $aBoston :$bLothrop, Lee and Shepard Co., $c1877, copyright 1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Young America abroad, second series
+subjects:
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Isles of the sea; or, Young America homeward bound : $b A story of travel
+  and adventure'
+url: http://www.gutenberg.org/ebooks/74943
