@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '57740'
     url: http://www.gutenberg.org/2009/agents/57740
     wikipedia: https://en.wikipedia.org/wiki/John_Andrew_%26_Son
+covers:
+- cover_type: archival
+  image_path: 74943-h/images/cover.jpg
 creator:
   author:
     agent_name: Optic, Oliver
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/William_Taylor_Adams
     - http://www.gutenberg.org/ebooks/author/5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74943#Isles-of-the-sea-or-Young-America-homeward-bound-b-A-story-of-travel-and-adventure
 gutenberg_issued: '2024-12-20'
 gutenberg_type: Text
 identifiers:
